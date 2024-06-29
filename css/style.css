@@ -1,0 +1,10 @@
+.bg {
+    width: 144git 0px;
+    height: 720px;
+    background-color: green;
+    background-image: url(../img/lamp.png), url(../img/house.png), url(../img/green.png), url(../img/donut.png), url(../img/hedgehog.png);
+    background-repeat: repeat-x, no-repeat, repeat-x, repeat-y, repeat-y;
+    background-position: top, center, bottom, right, left;
+    background-size: 37px 60px, auto, 300px 200px, 50px 50px, 50px 50px;
+
+}
